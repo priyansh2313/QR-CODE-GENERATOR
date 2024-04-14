@@ -1,1 +1,2 @@
+#Example qr generator 
 https://www.google.com
